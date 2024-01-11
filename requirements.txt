@@ -1,0 +1,2 @@
+statsmodels==0.13.5
+missingno==0.5.2
